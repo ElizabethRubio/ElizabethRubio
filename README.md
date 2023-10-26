@@ -5,6 +5,7 @@
 <div id="badges" align="center">
   
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edrsuyo/) 
+[![](https://img.shields.io/badge/Kaggle-8DDECC?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/elizabethrubiosuyo) 
 
 <h1>
   Hola soy Elizabeth 👋 ¡Encantada de conocerte! 
