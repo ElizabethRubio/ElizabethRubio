@@ -14,15 +14,20 @@ Bachiller de la carrera de Economía. Soy una persona dispuesta a asumir retos c
    
  ### :hammer_and_wrench: Lenguajes y herramientas :
 <div id="header" align="left">
+    <img src="https://img.shields.io/badge/Azure-33A5FF?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure"/>
+  </a>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>
-    <img src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=sql&logoColor=white" alt="sql"/>
-  </a>
- <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
   </a>
  <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
-<img src="https://img.shields.io/badge/Bizagi-FF8333?style=for-the-badge&logoColor=white" alt="bizagi"/>
+    <img src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=sql&logoColor=white" alt="sql"/>
   </a>
- 
+  <img src="https://img.shields.io/badge/SSIS-BC91EA?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="ssis"/>
+  </a>
+   <img src="https://img.shields.io/badge/SSAS-70A9EE?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="ssas"/>
+  </a>
+ <img src="https://img.shields.io/badge/Bizagi-FF8333?style=for-the-badge&logoColor=white" alt="bizagi"/>
+  </a>
+ <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+  </a> 
 </div>
