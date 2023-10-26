@@ -20,7 +20,7 @@ Bachiller de la carrera de Economía. Soy una persona dispuesta a asumir retos c
   </a>
  <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
-    <img src="https://img.shields.io/badge/SQL-6DB33F?style=for-the-badge&logo=microsoft-sql%20server&logoColor=white" alt="sql"/>
+    <img src="https://img.shields.io/badge/SQL_Server-6DB33F?style=for-the-badge&logo=microsoft-sql%20server&logoColor=white" alt="sql"/>
   </a>
   <img src="https://img.shields.io/badge/SSIS-BC91EA?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="ssis"/>
   </a>
