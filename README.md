@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.istockphoto.com/id/1325034866/es/vector/vector-de-an%C3%A1lisis-de-datos-ilustraci%C3%B3n-con-una-mujer-joven-sentada-frente-a-la-informaci%C3%B3n.jpg?s=1024x1024&w=is&k=20&c=e0Q7f7ps5ZBBekutsHQZUOWekaAzfsGsFBbhCj6IVTE=" width="800"/>
+  <img src="https://media.istockphoto.com/id/1325034866/vector/data-analysis-vector-illustration-with-young-woman-sitting-in-front-of-big-computer-monitor.jpg?s=612x612&w=0&k=20&c=n5-pe8pgPfPMcRpOL8bpy6mcx-LHrxLs2sYX1vJ9smM=" width="600"/>
 </div>
 
 <div id="badges" align="center">
