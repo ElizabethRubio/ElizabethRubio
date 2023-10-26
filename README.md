@@ -16,12 +16,12 @@
 
 ### :woman_technologist: Sobre mí :
 
-Bachiller de la carrera de Economía. Soy una persona dispuesta a asumir retos con muchos deseos de superación para lograr mis metas profesionales, capaz de trabajar en equipo y bajo presión. Apasionada por el aprendizaje continuo, el procesamiento y análisis de datos, big data y machine learning. Experiencia previa realizando análisis financiero, logístico y reportes. Busco mejorar los objetivos de la empresa (o de mi área) y desarrollar nuevas habilidades para mi avance profesional.
+Bachiller de la carrera de Economía de la Universidad Nacional Mayor de San Marcos. Soy una persona dispuesta a asumir retos con muchos deseos de superación para lograr mis metas profesionales, capaz de trabajar en equipo y bajo presión. Apasionada por el aprendizaje continuo, el procesamiento y análisis de datos, big data y machine learning. Experiencia previa realizando análisis financiero, logístico y reportes. Busco mejorar los objetivos de la empresa (o de mi área) y desarrollar nuevas habilidades para mi avance profesional.
 
 - 🌱 Estoy estudiando acerca del mundo del Data Engineering con nubes como Azure, AWS y GCP.
 - ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo. 
-- 📫 Cómo contactarme: 
-  
+- 📌Cómo contactarme: 📞 +51 939 761 858
+                      📬 elidiana.rubiosuyo@gmail.com
 ---
    
  ### :hammer_and_wrench: Lenguajes y herramientas :
