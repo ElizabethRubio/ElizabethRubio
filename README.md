@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-<!--
-**ElizabethRubio/ElizabethRubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div id="header" align="left">
-
+---
 ### :woman_technologist: Sobre mí :
 
 Bachiller de la carrera de Economía. Soy una persona dispuesta a asumir retos con muchos deseos de superación para lograr mis metas profesionales, capaz de trabajar en equipo y bajo presión. Apasionada por el aprendizaje continuo, el procesamiento y análisis de datos, big data y machine learning. Experiencia previa realizando análisis financiero, logístico y reportes. Busco mejorar los objetivos de la empresa (o de mi área) y desarrollar nuevas habilidades para mi avance profesional.
