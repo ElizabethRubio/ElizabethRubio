@@ -29,6 +29,10 @@ Licenciada de la carrera de Economía en la Universidad Nacional Mayor de San Ma
 <div id="header" align="left">
     <img src="https://img.shields.io/badge/Azure-33A5FF?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure"/>
   </a>
+    <img src="https://img.shields.io/badge/aws-%23FFC300?style=for-the-badge&logo=amazon%20web%20services&logoColor=white&color=blue" alt="aws"/>
+  </a>
+    <img src="https://img.shields.io/badge/gcp-82c6f8?style=for-the-badge&logo=google%20cloud&logoColor=white&color=82c6f8" alt="gcp"/>
+   </a>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
     <img src="https://img.shields.io/badge/R-3776AB?style=for-the-badge&logo=R&logoColor=white" alt="R"/>
