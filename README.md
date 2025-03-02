@@ -31,7 +31,7 @@ Licenciada de la carrera de Economía en la Universidad Nacional Mayor de San Ma
   </a>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
-  [<img src="https://img.shields.io/badge/R-3776AB?style=for-the-badge&logo=R&logoColor=white" alt="R"/>]
+    <img src="https://img.shields.io/badge/R-3776AB?style=for-the-badge&logo=R&logoColor=white" alt="R"/>
   </a>
  <img src="https://img.shields.io/badge/Power_BI-FFBE00?style=for-the-badge&logo=Power-BI&logoColor=white" alt="powerbi"/>
   </a>
