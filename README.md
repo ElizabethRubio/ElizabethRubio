@@ -21,8 +21,7 @@ Licenciada de la carrera de Economía en la Universidad Nacional Mayor de San Ma
 
 - 🌱 Estoy estudiando acerca del mundo del Data Engineering con nubes como Azure, AWS y GCP.
 - ❤️ Me encanta descubrir nuevas formas de automatizar mi trabajo. 
-- 📌Cómo contactarme: 📞 +51 939 761 858
-                      📬 elidiana.rubiosuyo@gmail.com
+- 📌Cómo contactarme: 📬 elidiana.rubiosuyo@gmail.com
 ---
    
  ### :hammer_and_wrench: Lenguajes y herramientas :
